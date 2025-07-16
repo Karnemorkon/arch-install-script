@@ -21,10 +21,9 @@
 
 1.  **Завантажте скрипт**: Клонуйте репозиторій або завантажте файл `install.sh`.
     ```bash
-    git clone https://github.com/ваш_користувач/arch-install-script.git
+    git clone https://github.com/Karnemorkon/arch-install-script.git
     cd arch-install-script
     ```
-    _Замініть `ваш_користувач` та `arch-install-script` на відповідні дані вашого репозиторію._
 
 2.  **Запустіть скрипт**: Виконайте скрипт з правами `root`.
     ```bash
